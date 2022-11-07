@@ -2,7 +2,7 @@
 
     background-image: url("img/pattern.png");
     background-repeat: repeat-x;
-    background-size: cover;
+    background-size: 10em;
     background-color: aqua;
 }
 
