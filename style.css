@@ -1,8 +1,9 @@
 .pattern {
 
+    background-image: url("img/pattern.png");
     background-repeat: repeat-x;
+    background-size: cover;
     background-color: aqua;
-    width: 150px;
 }
 
 .logo {
